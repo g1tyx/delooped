@@ -310,7 +310,7 @@ var cnItems = {
     "Reach a best total Energy of 2e9.": "达到 2e9 的最佳总能量。",
     "Capacity Core": "能力核心",
     "Capsule Core": "胶囊核心",
-    "Claim": "宣称",
+    "Claim": "领取",
     "Energy Core": "能量核心",
     "Open 1 💊": "打开 1💊",
     "unclaimed 💊.": "未领取💊。",
